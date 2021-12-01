@@ -1,0 +1,6 @@
+Python Notes for AoC21:
+
+Day 1: Sonar Sweep
+	- Python utilizes None as opposed to null
+	- Python does not support ++ increment, one must use += 1
+	
